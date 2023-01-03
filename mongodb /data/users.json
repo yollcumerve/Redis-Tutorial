@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Kdnre",
+        "surname":"Puckrin",
+        "email":"kpuckrin@imgur.com",
+        "password":"agXZRL",
+        "photoUrl":"http://dummyimage.com/247x100.png/ff4444/ffffff"
+    },
+    {
+        "name":"Lilah",
+        "surname":"ketcher",
+        "email":"lketcher@imgur.com",
+        "password":"agXZRL",
+        "photoUrl":"http://dummyimage.com/247x100.png/ff4444/ffffff"
+    },
+    {
+        "name":"Deedee",
+        "surname":"Raithmill",
+        "email":"draithmill2@imgur.com",
+        "password":"agXZRL",
+        "photoUrl":"http://dummyimage.com/247x100.png/ff4444/ffffff"
+    },
+    {
+        "name":"Consuela",
+        "surname":"Teece",
+        "email":"cteece@imgur.com",
+        "password":"agXZRL",
+        "photoUrl":"http://dummyimage.com/247x100.png/ff4444/ffffff"
+    }
+
+]
